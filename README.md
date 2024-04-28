@@ -22,6 +22,9 @@ All the required data files are already provided, for Mood & Time analysis secti
 
 Github Repository Link : https://github.com/Aasrish/dv_project
 
-
+Team members:
+- Perumalla Aasrish Vinay (B20CS042)
+- Debdut Saini (B20CS011)
+- Ingale Tejas Dilip (B20ME036)
 
 
